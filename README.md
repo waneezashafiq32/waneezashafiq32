@@ -17,7 +17,6 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
 - 🌱 Currently expanding my expertise in Flutter, Firebase & AI
 - 🚗 Working on **SkillPass**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +33,6 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -56,7 +54,7 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
 
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -80,7 +78,6 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
 
 </p>
 
----
 
 ## 🚀 Currently Working On
 
@@ -89,13 +86,11 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
 - 🔗 Laravel REST API Integration
 - 🔥 Firebase Integration
 
----
 
 ## 💡 Quote
 
 > **"Great mobile apps are built with clean code, continuous learning, and attention to user experience."**
 
----
 
 <p align="center">
 
