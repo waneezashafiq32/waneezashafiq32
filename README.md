@@ -88,7 +88,6 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
 
 
 ## 💡 Quote
-
 > **"Great mobile apps are built with clean code, continuous learning, and attention to user experience."**
 
 
