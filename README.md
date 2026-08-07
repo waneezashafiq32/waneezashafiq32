@@ -51,52 +51,15 @@ I'm a **Mobile App Engineer** passionate about building modern, scalable and use
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
 </p>
 
----
-
-## 🚀 Current Focus
-
-- 🚗 SkillPass
-- 📱 Flutter Development
-- 🔗 REST API Integration
-- 🤖 AI-powered Mobile Applications
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/waneezashafiq32">
-<img src="https://skillicons.dev/icons?i=github" width="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/waneeza-shafiq">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:waneezashafiq@torontodigits.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/waneezashafiq">
-<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/waneezashafiq">
-<img src="https://img.icons8.com/color/48/facebook-new.png" width="42"/>
-</a>
-
+<a href="https://github.com/waneezashafiq32"><img src="https://skillicons.dev/icons?i=github" width="42"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/waneeza-shafiq"><img src="https://skillicons.dev/icons?i=linkedin" width="42"></a>&nbsp;&nbsp;
+<a href="mailto:waneezashafiq@torontodigits.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/waneezashafiq"><img src="https://skillicons.dev/icons?i=instagram" width="42"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/waneezashafiq"><img src="https://img.icons8.com/color/48/facebook-new.png" width="42"></a>
 </p>
-
----
 
 <p align="center">
 ⭐ <b>Thanks for visiting my profile!</b><br><br>
