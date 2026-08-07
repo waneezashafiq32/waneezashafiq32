@@ -51,10 +51,8 @@ I'm a **Mobile App Engineer** passionate about building modern, scalable and use
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
 </p>
 
-## 🌐 Connect With Me
-
+Connect With Me
 <p align="center">
-<a href="https://github.com/waneezashafiq32"><img src="https://skillicons.dev/icons?i=github" width="42"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/waneeza-shafiq"><img src="https://skillicons.dev/icons?i=linkedin" width="42"></a>&nbsp;&nbsp;
 <a href="mailto:waneezashafiq@torontodigits.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/waneezashafiq"><img src="https://skillicons.dev/icons?i=instagram" width="42"></a>&nbsp;&nbsp;
