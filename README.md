@@ -7,23 +7,19 @@ Building scalable, user-friendly and high-performance Flutter applications 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=Flutter+Developer;Mobile+App+Engineer;Building+Scalable+Flutter+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waneezashafiq32&label=Profile+Views&color=0ea5e9&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Flutter+Developer;Mobile+App+Engineer;Building+Scalable+Flutter+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Mobile App Engineer** passionate about developing beautiful, scalable, and high-performance Flutter applications with clean architecture and great user experience.
+I'm a **Mobile App Engineer** passionate about building modern, scalable and user-friendly Flutter applications.
 
 - 📱 Mobile App Engineer
 - 💙 Flutter Developer
-- 🚀 Passionate about mobile application development
-- 🤖 Exploring AI-powered mobile applications
+- 🚀 Passionate about Mobile App Development
+- 🤖 Exploring AI-powered Mobile Applications
 - 🌱 Continuously learning new technologies
 - 🚗 Currently working on **SkillPass**
 
@@ -31,40 +27,71 @@ I'm a **Mobile App Engineer** passionate about developing beautiful, scalable, a
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,laravel" />
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
+### 🔥 Backend & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,laravel"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### ⚙️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Current Focus
+
+- 🚗 SkillPass
+- 📱 Flutter Development
+- 🔗 REST API Integration
+- 🤖 AI-powered Mobile Applications
+
+---
+
+## 🌐 Let's Connect
 
 <p align="center">
 
-<a href="https://github.com/waneezashafiq32" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
+<a href="https://github.com/waneezashafiq32">
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/waneeza-shafiq" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://linkedin.com/in/waneeza-shafiq">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="mailto:waneezashafiq@torontodigits.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/waneezashafiq" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" width="45" />
+<a href="https://www.instagram.com/waneezashafiq">
+<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/waneezashafiq">
+<img src="https://img.icons8.com/color/48/facebook-new.png" width="42"/>
 </a>
 
 </p>
@@ -72,9 +99,6 @@ I'm a **Mobile App Engineer** passionate about developing beautiful, scalable, a
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code with passion. Build with purpose."*
-
+⭐ <b>Thanks for visiting my profile!</b><br><br>
+<i>"Code with passion. Build with purpose."</i>
 </p>
