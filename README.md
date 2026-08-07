@@ -34,11 +34,6 @@ Building scalable, user-friendly and high-performance Flutter applications 📱
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,laravel" />
-</p>
 
 ### Tools
 
