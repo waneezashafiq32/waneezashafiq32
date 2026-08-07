@@ -8,13 +8,6 @@ Mobile App Engineer | Flutter Developer
 Building scalable, user-friendly and high-performance Flutter applications 📱
 </p>
 
-<p align="center">
-  <a href="https://github.com/waneezashafiq32">
-    <img src="https://komarev.com/ghpvc/?username=waneezashafiq32&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
----
 
 ## 👩‍💻 About Me
 
