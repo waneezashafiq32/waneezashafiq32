@@ -33,18 +33,6 @@ I'm a **Mobile App Engineer** with a passion for building clean, scalable, and u
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 </p>
 
-### 🔥 Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,laravel"/>
-</p>
-
-### 💾 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
 ### 🧰 Tools
 
 <p>
@@ -65,17 +53,8 @@ I'm a **Mobile App Engineer** with a passion for building clean, scalable, and u
 
 # 🌐 Contact With Me
 
-<p align="center">
-  <a href="https://github.com/waneezashafiq32">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/waneeza-shafiq">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:waneezashafiq@torontodigits.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/waneezashafiq">
