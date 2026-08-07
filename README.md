@@ -33,18 +33,6 @@ I'm a **Mobile App Engineer** passionate about building modern, scalable and use
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
 </p>
 
-### 🔥 Backend & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,laravel"/>
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
 ### ⚙️ Tools
 
 <p>
